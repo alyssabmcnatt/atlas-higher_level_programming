@@ -1,2 +1,3 @@
-VimCrypt~03!_À
-X)Â+/#Vå[w£AŠN—‚ÑZ!álËiædfzÌ©Eö;.ƒÑ{õc¦­ï°¦	ıÄƒtÍÅä¤e“Ú\‡KçÊ×[S‹MHµ/
+#!/usr/bin/python3
+number = 3.14159
+f"Float: {number:.2f}"
