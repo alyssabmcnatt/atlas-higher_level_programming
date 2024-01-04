@@ -1,3 +1,2 @@
-#!/usr/bin/python3
-number = 3.14159
-print(f"Float: {float(number)}.2f")
+VimCrypt~03!÷m,»¢Qéi<?2Q×(s†±àÂËŠ8%˜ùñùqj‰€·|
+×ÙÜ”Š6Lfåòê¨Lç;m[&W:$¬m†¸¡¯â•êç©Ep{
