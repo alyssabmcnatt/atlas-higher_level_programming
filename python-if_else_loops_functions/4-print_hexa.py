@@ -1,7 +1,7 @@
 #!/usr/bin/python3
-number = 0
-while number <= 98:
-    print(number)
-    number += 1
-    if number == 99:
-        break
+dec = 0
+hexo = 0
+while dec <= 92 and hexo <= 62:
+    print("{} = {}".format(dec, hex(hexo)))
+    dec += 1
+    hexo += 1
