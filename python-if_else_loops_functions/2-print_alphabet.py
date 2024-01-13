@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-digit = 97
-while digit <= 122:
-    print("chr({digit})", end="")
+dec = '97'
+while dec <= '122':
+    print("dec", chr(97)).
     digit += 1
